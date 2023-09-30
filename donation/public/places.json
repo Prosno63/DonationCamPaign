@@ -1,0 +1,164 @@
+[
+    {
+      "id": "1",
+      "type": "Clothing",
+      "image": "https://i.ibb.co/P9Q99gJ/Clothing.png",
+   
+      "typeColor": "text-red-950",
+      "backgroundColor": "pink",
+      "typeBackgroundColor": "orange",
+      "title": " Clothing item for Childern 1",
+      "titleColor": "#F87171",
+      "description": "This is a sample  Clothing item for Childern.",
+      "amount": "299"
+    },
+   
+    {
+      "id": "3",
+      "type": "Health",
+      "image": "https://i.ibb.co/9n9SHSp/Health.png",
+      
+      "typeColor": "text-blue-700",
+      "backgroundColor": "orange",
+      "typeBackgroundColor": "bg-red-500",
+      "title": "Health Product 1",
+      "titleColor": "#0000FF",
+      "description": "Take care of your health with this product.",
+      "amount": "299"
+    },
+    {
+      "id": "2",
+      "type": "Education",
+      "image": "https://i.ibb.co/2qX14ts/Education.png",
+      
+      "typeColor": "text-amber-950",
+      "backgroundColor": "skyblue",
+      "typeBackgroundColor": "red",
+      "title": "Educational Course 1",
+      "titleColor": "Green",
+      "description": "Learn something new with our course!",
+      "amount": "299"
+    },
+    {
+      "id": "4",
+      "type": "Food",
+      "image": "https://i.ibb.co/m4hCQmN/Food.png",
+      
+      "typeColor": "text-blue-700",
+      "backgroundColor": "cream",
+      "typeBackgroundColor": "#3498db",
+      "title": "Delicious Food Item 1",
+      "titleColor": "text-red-700",
+      "description": "Satisfy your cravings with this dish.",
+      "amount": "299"
+    },
+    {
+      "id": "5",
+      "type": "Clothing",
+      "image": "https://i.ibb.co/P9Q99gJ/Clothing.png",
+    
+      "typeColor": "text-blue-700",
+      "backgroundColor": "pink",
+      "typeBackgroundColor": "orange",
+      "title": " Clothing item for Childern 2",
+      "titleColor": "#F87171",
+      "description": "Check out the latest fashion trends.",
+      "amount": "299"
+    },
+    {
+      "id": "6",
+      "type": "Education",
+      "image": "https://i.ibb.co/2qX14ts/Education.png",
+      
+      "typeColor": "text-amber-950",
+      "backgroundColor": "skyblue",
+      "typeBackgroundColor": "red",
+      "title": "Educational Course 2",
+      "titleColor": "Green",
+      "description": "Expand your knowledge with this course.",
+      "amount": "299"
+    },
+  
+    {
+      "id": "8",
+      "type": "Food",
+      "image": "https://i.ibb.co/m4hCQmN/Food.png",
+     
+      "typeColor": "text-blue-700",
+      "backgroundColor": "bg-red-500",
+      "typeBackgroundColor": "#3498db",
+      "title": "Tasty Food Item 2",
+      "titleColor": "#333333",
+      "description": "Indulge in culinary delights with this dish.",
+      "amount": "299"
+    },
+    {
+      "id": "7",
+      "type": "Health",
+      "image": "https://i.ibb.co/9n9SHSp/Health.png",
+      
+      "typeColor": "text-blue-700",
+      "backgroundColor": "orange",
+      "typeBackgroundColor": "bg-red-500",
+      "title": "Health Product 2",
+      "titleColor": "#0000FF",
+      "description": "Improve your well-being with this product.",
+      "amount": "299"
+    },
+    
+    {
+      "id": "12",
+      "type": "Food",
+      "image": "https://i.ibb.co/m4hCQmN/Food.png",
+      
+      "typeColor": "text-blue-700",
+      "backgroundColor": "bg-red-500",
+      "typeBackgroundColor": "#3498db",
+      "title": "Family Meal Deal",
+      "titleColor": "#333333",
+      "description": "Enjoy a delicious meal with your loved ones.",
+      "amount": "299"
+    },
+    {
+      "id": "9",
+      "type": "Clothing",
+      "image": "https://i.ibb.co/P9Q99gJ/Clothing.png1",
+      
+      "typeColor": "text-blue-700",
+      "backgroundColor": "pink",
+      "typeBackgroundColor": "orange",
+      "title": "Clearance  Clothing item for Childern",
+      "titleColor": "#F87171",
+      "description": "Get great deals on stylish clothing.",
+      "amount": "299"
+    },
+    {
+      "id": "10",
+      "type": "Education",
+      "image": "https://i.ibb.co/2qX14ts/Education.png",
+
+      "typeColor": "text-amber-950",
+      "backgroundColor": "skyblue",
+      "typeBackgroundColor": "red",
+      "title": "Online Learning Course",
+      "titleColor": "Green",
+      "description": "Learn from the comfort of your home.",
+      "amount": "299"
+    },
+    {
+      "id": "11",
+      "type": "Health",
+      "image": "https://i.ibb.co/9n9SHSp/Health.png",
+    
+      "typeColor": "text-blue-700",
+      "backgroundColor": "orange",
+      "typeBackgroundColor": "bg-red-500",
+      "title": "Wellness Package",
+      "titleColor": "#0000FF",
+      "description": "Enhance your overall wellness with this package.",
+      "amount": "299"
+    }
+  ]
+
+  
+  
